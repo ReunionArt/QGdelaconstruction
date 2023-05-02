@@ -20,10 +20,10 @@ author: Quentin GOUJON
 ###############################################
 
 navbar-links:
-  Règlementation
-  Règles de l'art
-  Erreurs courantes
-  Assurances
+  Règlementation :
+  Règles de l'art :
+  Erreurs courantes :
+  Assurances :
 
 ################
 # --- Logo --- #
