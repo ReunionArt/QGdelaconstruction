@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A propos de l'auteur
+subtitle: Apprenez tout sur moi !
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mon nom est Quentin GOUOJN.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Je suis spécialiste de la construction :
 
-What else do you need?
+- Architecte
+- Urbaniste spécialisé en développement durable
+- Expert judiciaire spécialisé architecture, urbanisme et gestion de projet
 
-### My story
+Que voulez-vous savoir de plus ?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Mon histoire
+
+....
