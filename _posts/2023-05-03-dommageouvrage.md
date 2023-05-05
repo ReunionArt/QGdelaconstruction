@@ -6,6 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, DO, assurance, dommage, ouvrage, construction, maison, villa,]
+comments: true
 ---
 
 Si vous êtes propriétaire d'une maison ou d'un bâtiment, il est important de comprendre ce qu'est l'assurance dommage ouvrage et pourquoi elle est si importante dans le domaine de la construction. L'assurance dommage ouvrage est une assurance obligatoire qui couvre les dommages pouvant survenir pendant la construction d'un bâtiment, ou dans les années qui suivent la fin des travaux. Elle est destinée à garantir la réparation rapide des dommages, sans avoir à rechercher la responsabilité de l'auteur des dommages.
