@@ -2,9 +2,9 @@
 layout: post
 title: La dommage ouvrage (DO)
 subtitle: L'importance de la DO
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/assurance-dommage-ouvrage.jpg
+thumbnail-img: /assets/img/assurance-dommage-ouvrage.jpg
+share-img: /assets/img/assurance-dommage-ouvrage.jpg
 tags: [books, DO, assurance, dommage, ouvrage, construction, maison, villa,]
 comments: true
 ---
