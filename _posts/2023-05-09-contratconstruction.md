@@ -3,9 +3,8 @@ layout: post
 title: LE contrat de construction
 subtitle: Les subtilités à ne pas rater
 cover-img: /assets/img/soubas.jpg
-thumbnail-img: /assets/img/Schema-protection-de-soubassement.jpg
-share-img: /assets/img/soubas.jpg
-gh-repo: daattali/beautiful-jekyll
+thumbnail-img: /assets/img/contrat.png
+share-img: /assets/img/contrat2.png
 gh-badge: [construction, contrat, particulier, maison, individuel, villa, réglementation,]
 tags: [contrat, construction,]
 comments: true
