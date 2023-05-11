@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LE contrat de construction
+title: Le contrat de construction
 subtitle: Les subtilités à ne pas rater
 cover-img: /assets/img/soubas.jpg
 thumbnail-img: /assets/img/contrat.png
