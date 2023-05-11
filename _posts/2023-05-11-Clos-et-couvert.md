@@ -3,8 +3,8 @@ layout: post
 title: Le clos-couvert
 subtitle: Respecter l'ordre : hors d'eau / hors d'air avant le second oeuvre.
 cover-img: /assets/img/soubas.jpg
-thumbnail-img: /assets/img/contrat.png
-share-img: /assets/img/contrat2.png
+thumbnail-img: /assets/img/clos.png
+share-img: /assets/img/couvert.png
 gh-badge: [construction, hors d'eau, hors d'air, clos, couvert, particulier, maison, individuel, villa, réglementation,]
 tags: [hors d'eau, hors d'air, construction,]
 comments: true
