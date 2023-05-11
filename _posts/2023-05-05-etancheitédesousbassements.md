@@ -5,7 +5,6 @@ subtitle: A quoi ca sert et comment la mettre en place.
 cover-img: /assets/img/soubas.jpg
 thumbnail-img: /assets/img/souba.jpg
 share-img: /assets/img/soubas.jpg
-gh-repo: daattali/beautiful-jekyll
 gh-badge: [construction, etanchéité, soubassement, maison, construction, individuel, villa, réglementation,]
 tags: [2tanchaité, soubassement,]
 comments: true
