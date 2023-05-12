@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le clos-couvert
-subtitle: Respecter l'ordre : hors d'eau / hors d'air avant le second oeuvre.
+subtitle: Respecter l'ordre de construction.
 cover-img: /assets/img/soubas.jpg
 thumbnail-img: /assets/img/clos.png
 share-img: /assets/img/couvert.png
