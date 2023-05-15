@@ -2,7 +2,7 @@
 layout: post
 title: Le clos-couvert
 subtitle: Respecter l'ordre de construction.
-cover-img: /assets/img/soubas.jpg
+cover-img: /assets/img/couvert.png
 thumbnail-img: /assets/img/clos.png
 share-img: /assets/img/couvert.png
 gh-badge: [construction, hors d'eau, hors d'air, clos, couvert, particulier, maison, individuel, villa, réglementation,]
