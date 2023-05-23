@@ -2,9 +2,9 @@
 layout: post
 title: Les fondations
 subtitle: Comment choisir ?
-cover-img: /assets/img/assurance-dommage-ouvrage.jpg
-thumbnail-img: /assets/img/assurance-dommage-ouvrage.jpg
-share-img: /assets/img/assurance-dommage-ouvrage.jpg
+cover-img: /assets/img/fondations1.jpg
+thumbnail-img: /assets/img/fondations2.jpg
+share-img: /assets/img/fondations1.jpg
 tags: [books, DO, assurance, dommage, ouvrage, construction, maison, villa,]
 comments: true
 ---
@@ -43,4 +43,6 @@ Les coûts associés à chaque type de fondation dépendent de plusieurs facteur
 
 Cependant, en général, les fondations superficielles sont les moins coûteuses tandis que les fondations profondes sont les plus coûteuses. Les fondations semi-profondes sont quant à elles moins coûteuses que les fondations profondes mais plus coûteuses que les fondations superficielles.
 
-J'espère que cela répond à votre question. N'hésitez pas à me poser des questions si vous en avez besoin.
+Pour réaliser une étude de sol, il est recommandé de faire appel à un géotechnicien. Ce dernier effectuera une analyse du sol en prélevant des échantillons et en les analysant en laboratoire.
+
+L’étude permettra de déterminer la nature et la portance du sol et ainsi de choisir le type de fondation le plus adapté.
