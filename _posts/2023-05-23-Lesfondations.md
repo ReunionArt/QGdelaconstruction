@@ -2,9 +2,9 @@
 layout: post
 title: Les fondations
 subtitle: Comment choisir ?
-cover-img: /assets/img/fondations1.jpg
-thumbnail-img: /assets/img/fondations2.jpg
-share-img: /assets/img/fondations1.jpg
+cover-img: /assets/img/fondations1.png
+thumbnail-img: /assets/img/fondations2.png
+share-img: /assets/img/fondations1.png
 tags: [books, DO, assurance, dommage, ouvrage, construction, maison, villa,]
 comments: true
 ---
