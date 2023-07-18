@@ -2,9 +2,9 @@
 layout: post
 title: Le permis de construire
 subtitle: Qu'est ce que c'est ?
-cover-img: /assets/img/fondations1.png
-thumbnail-img: /assets/img/fondations2.png
-share-img: /assets/img/fondations1.png
+cover-img: /assets/img/PC1.png
+thumbnail-img: /assets/img/PC2.png
+share-img: /assets/img/PC1.png
 tags: [books, PC, permis, construire, individuelle, construction, maison, villa,]
 comments: true
 ---
