@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le permis de construire
-subtitle: Qu'est ce que c'est ?
+subtitle: A quoi sert-il ?
 cover-img: /assets/img/PC1.png
 thumbnail-img: /assets/img/PC2.png
 share-img: /assets/img/PC1.png
